@@ -10,3 +10,4 @@ categories_storage = {
     "Salads": {"id": 7, "thumb": "http://127.0.0.1:8000/get-image/salads"},
     "Breakfast": {"id": 8, "thumb": "http://127.0.0.1:8000/get-image/breakfast"},
 }
+# first comment
